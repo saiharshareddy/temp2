@@ -1,6 +1,9 @@
 
 
 def f1():
-    return "eligibile"
+    # apply logic
+
+    if age>18:
+          return "eligibile"
 
 f1()
